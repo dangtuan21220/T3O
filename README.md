@@ -1,1 +1,3 @@
-# T3O
+# frontend
+#### yarn install
+#### yarn start
